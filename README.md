@@ -1,6 +1,7 @@
 # Thilanka-Portfolio
 
-🌐 Portfolio Website – Thilanka Yasodhana
+🌐 Portfolio Website – Thilanka Yasodhana Rathnayaka
+
 This is my personal portfolio website showcasing my experience, skills, and projects as a Senior Technical Officer.
 
 🚀 Technologies Used
