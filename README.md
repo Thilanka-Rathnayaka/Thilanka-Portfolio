@@ -7,13 +7,7 @@ This is my personal portfolio website showcasing my experience, skills, and proj
 
 🚀 Technologies Used
 
-⦁	HTML5
-
-⦁	CSS3
-
-⦁	JavaScript
-
-⦁	Font Awesome
+⦁	HTML5    ⦁	CSS3    ⦁	JavaScript    ⦁	Font Awesome
 
 
 ✨ Features
